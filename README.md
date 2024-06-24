@@ -43,6 +43,7 @@ You must create a program with these constraints:
 **Ex02:**
 
 You must create a program with these constraints:
+```
 • The name of the program is PmergeMe.
 • The program must be able to use a positive integer sequence as argument.
 • The program must use the merge-insert sort algorithm to sort the positive integer sequence.
@@ -52,5 +53,5 @@ You must create a program with these constraints:
 • On the second line you must display an explicit text followed by the sorted positive integer sequence.
 • On the third line you must display an explicit text indicating the time used by the algorithm by specifying the first container used to sort the positive integer sequence.
 • On the last line you must display an explicit text indicating the time used by the algorithm by specifying the second container used to sort the positive integer sequence.
-
+```
 ---
